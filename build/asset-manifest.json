@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34de6062.chunk.css",
+    "main.js": "/static/js/main.1252a1c6.chunk.js",
+    "main.js.map": "/static/js/main.1252a1c6.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.5a75cd7d.chunk.js": "/static/js/2.5a75cd7d.chunk.js",
+    "static/js/2.5a75cd7d.chunk.js.map": "/static/js/2.5a75cd7d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9f70cc520321e51199851a9736f28e47.js": "/precache-manifest.9f70cc520321e51199851a9736f28e47.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map",
+    "static/media/Asset_2.png": "/static/media/Asset_2.b464dca8.png",
+    "static/media/Bat_Owl.png": "/static/media/Bat_Owl.c58bd94e.png",
+    "static/media/Climate_P.png": "/static/media/Climate_P.818d2dd0.png",
+    "static/media/Ranger_Glove.jpg": "/static/media/Ranger_Glove.b8f00954.jpg",
+    "static/media/me.jpg": "/static/media/me.d726bd3a.jpg",
+    "static/media/me_2.jpg": "/static/media/me_2.73912480.jpg",
+    "static/media/radiation.png": "/static/media/radiation.138898ea.png"
+  }
+}
